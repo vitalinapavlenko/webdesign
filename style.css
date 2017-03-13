@@ -1,0 +1,289 @@
+.container {
+  font-size: 0;
+  }
+.design {
+	display: inline-block;
+  position: relative;
+  clear: both;
+  margin: 0 auto;
+}
+.info {
+	position: absolute;
+	display: inline-block;
+	top: 456px;
+	left: 599px;
+	color: white;
+	font-family: "Playfair Display";
+	font-size: 140px;
+  height: 137px;
+  width: 900px;
+  }
+.text {
+	position: absolute;
+	display: block;
+	top: 620px;
+	left: 689px;
+	bottom: 580px;
+  width: 543px;
+  color: white;
+  font-family: Montserrat;
+  font-size: 20px;
+  text-align: center;
+  }
+.really {
+  width: 163px;
+  height: 46px;
+  color: white;
+  text-decoration: none;
+  background-color: #e38687;
+  font-family: Montserrat;
+  font-size: 14px;
+  padding: 15px;
+  padding-right: 50px;
+  padding-left: 50px;
+  border-radius: 23px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 15em;
+}
+.icon {
+	position: absolute;
+	display: block;
+	width: 82px;
+	height: 82px;
+	border: 2px solid white;
+	border-radius: 50%;
+	top: 550px;
+	left: 220px;
+	background-image: url(image/play.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cont {
+  font-size: 0;
+  display: inline-block;
+  position: relative;
+}
+.c {
+  position: absolute;
+  top: 20px;
+}
+.d {
+  position: absolute;
+  top: 20px;
+  left: 480px;
+}
+.a {
+  position: absolute;
+  left: 960px;
+  top: 20px;
+}
+.b {
+  position: absolute;
+  left: 1440px;
+  top: 20px;
+}
+.layer1 {
+  position: absolute;
+  top: 346px;
+  left: 110px;
+  width: 250px;
+  height: 44px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 10px;
+  text-align: center;
+}
+.layer1 h3 {
+  font-family: Montserrat;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.layer1 p {
+  font-family: Georgia;
+  font-style: italic;
+}
+.layer2{
+  position: absolute;
+  top: 346px;
+  left: 638px;
+  width: 200px;
+  height: 47px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 10px;
+  text-align: center;
+}
+.layer2 h3 {
+  font-family: Montserrat;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.layer2 p {
+  font-family: Georgia;
+  font-style: italic;
+}
+.layer3 {
+  position: absolute;
+  top: 346px;
+  left: 1063px;
+  width: 300px;
+  height: 44px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 10px;
+  text-align: center;
+}
+.layer3 h3 {
+  font-family: Montserrat;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.layer3 p {
+  font-family: Georgia;
+  font-style: italic;
+}
+.layer4 {
+  position: absolute;
+  top: 346px;
+  left: 1578px;
+  width: 250px;
+  height: 47px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 10px;
+  text-align: center;
+}
+.layer4 h3 {
+  font-family: Montserrat;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.layer4 p {
+  font-family: Georgia;
+  font-style: italic;
+}
+.foot {
+  position: relative;
+  width: 1920px;
+  height: 400px;
+}
+.footer {
+  position: absolute;
+  width: 1920px;
+  height: 380px;
+}
+.f {
+  width: 397px;
+  font-size: 14px;
+  line-height: 26px;
+  color: #151515;
+  font-family: Montserrat;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  top: 170px;
+}
+.follow {
+  left: 197px;
+}
+.get {
+  left: 559px;
+}
+.local {
+  left: 970px;
+}
+.our {
+  left: 1357px;
+}
+.social {
+  width: 120px;
+  height: 167px;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: Georgia;
+  font-style: italic;
+  position: absolute;
+  top: 220px;
+  left: 160px;
+  text-align: left;
+}
+.social li {
+  list-style: none;
+}
+.social li a {
+  text-decoration: none;
+  color: #565656;
+}
+.us {
+  width: 144px;
+  height: 169px;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: Georgia;
+  font-style: italic;
+  position: absolute;
+  top: 220px;
+  left: 520px;
+  text-align: left;
+}
+.us li {
+  list-style: none;
+}
+.us li a {
+  text-decoration: none;
+  color: #565656;
+}
+.loc {
+  width: 100px;
+  height: 169px;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: Georgia;
+  font-style: italic;
+  position: absolute;
+  top: 220px;
+  left: 930px;
+  text-align: left;
+}
+.loc li {
+  list-style: none;
+}
+.loc li a {
+  text-decoration: none;
+  color: #565656;
+}
+.mis {
+  width: 365px;
+  height: 169px;
+  font-size: 14px;
+  line-height: 26px;
+  color: #575757;
+  font-family: Georgia;
+  font-style: italic;
+  position: relative;
+  top: 220px; 
+  left: 1357px;
+  text-align: left;
+}
+.copy {
+  position: relative;
+  width: 1920px;
+  height: 56px;
+  background-color: #000000;
+  background-color: #151515;
+  top: 384px;
+  margin: 10px;
+  left: -10px;
+  color: #ffffff;
+  font-family: Georgia;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 24px;
+}
+.copy p {
+  opacity: 0.2;
+  text-align: center;
+  position: relative;
+  top: 15px;
+}
